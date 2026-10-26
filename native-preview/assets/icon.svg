@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Everbit app icon</title>
+  <desc id="desc">An open lowercase e with a rising leaf: a little action becoming growth.</desc>
+  <style>.base{fill:#17352C}.stem{fill:none;stroke:#EDF5ED;stroke-width:78;stroke-linecap:round;stroke-linejoin:round}.leaf{fill:#A2DAB4}</style>
+  <rect class="base" width="1024" height="1024" rx="224"/>
+  <path class="stem" d="M704 662a222 222 0 1 1 27-156H293"/>
+  <path class="leaf" d="M635 328c-8-78 43-139 139-142 5 89-42 144-139 142Z"/>
+</svg>
